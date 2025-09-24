@@ -15,7 +15,7 @@ Este proyecto implementa una prueba funcional automatizada (E2E) del flujo de co
 ## Instalación y ejecución
 1. Clona el repositorio:
    ```sh
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/Nathyyyyyyy/Ejercicio-de-Automatizacion-E2E---Nathaly-Moncayo.git
    cd automatizacion
    ```
 2. Ejecuta las pruebas:
