@@ -9,7 +9,7 @@ REQUISITOS:
 
 PASOS PARA EJECUCIÓN:
 1. Clonar el repositorio:
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/Nathyyyyyyy/Ejercicio-de-Automatizacion-E2E---Nathaly-Moncayo.git
 2. Ingresar al directorio del proyecto:
    cd automatizacion
 3. Ejecutar las pruebas:
