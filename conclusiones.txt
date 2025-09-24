@@ -1,0 +1,10 @@
+CONCLUSIONES PROFESIONALES
+
+- El flujo E2E automatizado replica fielmente la experiencia de usuario en la tienda Demoblaze, validando la funcionalidad crítica de compra.
+- Se implementó una lógica robusta para seleccionar productos por nombre, facilitando la escalabilidad y el mantenimiento de las pruebas.
+- El manejo de alertas, sincronización y selección precisa de elementos asegura estabilidad ante cambios menores en la UI.
+- Serenity BDD permitió generar reportes claros, visuales y trazables, facilitando la revisión y auditoría de los resultados.
+- El proyecto es portable y fácilmente reproducible en cualquier entorno compatible con Java y Maven.
+- La estructura modular permite extender el set de pruebas a otros flujos o escenarios de negocio.
+
+Recomendación: Mantener actualizadas las dependencias y revisar periódicamente los selectores ante posibles cambios en la web.
